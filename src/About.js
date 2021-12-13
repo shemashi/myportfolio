@@ -9,7 +9,7 @@ function About() {
 
         <div className="section-title" >
           <h2>About</h2>
-          <p className='foo' data-aos="fade-in" >I am an energetic and ambitious person who has developed a mature and responsible approach to any task that i undertake. I am a hardcore <strong>programming</strong> and <strong>technology</strong> enthusiast.</p>
+          <p className='foo' data-aos="fade-in" >I am an energetic and ambitious person who has developed a mature and responsible approach to any task that i undertake. I am a hardcore <strong>programming</strong> and <strong> AI technology</strong> enthusiast.</p>
 
         </div>
 

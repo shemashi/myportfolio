@@ -16,7 +16,14 @@ function Resume(){
           <div className="col-lg-6" data-aos="zoom-in-up" data-aos-delay="200">
 
              <div className='bbb'>
-                <a href="https://drive.google.com/file/d/1FXRZ0vtag7rTIKz3WJyLq0C4cLNcVdMk/view?usp=sharing" className="btnn btn-2 btn-2h"> <FaFileDownload size='30'/> &nbsp;Download Resume</a>
+
+             <br/><br/><br/><br/><br/>
+             <br/><br/><br/><br/><br/>
+
+             <br/><a href="https://drive.google.com/file/d/1FXRZ0vtag7rTIKz3WJyLq0C4cLNcVdMk/view?usp=sharing" className="btnn btn-2 btn-2h"> <FaFileDownload size='30'/> &nbsp;Download Resume</a><br/><br/><br/><br/><br/>
+                <br/>
+                
+                
             </div>
 
           </div>
@@ -88,7 +95,7 @@ function Resume(){
                 <li>Advanced courses in Mathematics, Physics, Chemistry, Engineering Sciences and Languages </li>
               </ul>
             </div>
-
+            
             <h3 className="resume-title">EXPERIENCE</h3>
 
             <div className="resume-item">

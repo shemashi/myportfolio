@@ -3,12 +3,12 @@ import sm from './img/sm.gif'
 import emailjs from 'emailjs-com';
 
 function Contact(){
-  const {REACT_APP_SERVICE_ID,REACT_APP_USER_ID,REACT_APP_TEMPLATE_ID} = process.env;
+  
 
   function sendEmail(e) {
     e.preventDefault();
 
-    emailjs.sendForm(REACT_APP_SERVICE_ID, REACT_APP_TEMPLATE_ID, e.target, REACT_APP_USER_ID)
+    emailjs.sendForm('service_atraoui' , 'template_udck0tf', e.target, 'user_ehXI8pHUylBqNGSHJRRzg')
       .then((result) => {
           console.log(result.text);
       }, (error) => {
