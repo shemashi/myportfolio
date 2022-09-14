@@ -28,19 +28,19 @@ function About() {
                   <li><i className="bi bi-chevron-right"></i> <strong>Birthday:</strong> <span>09 July 1999</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Website:</strong> <span>www.chaimaatraoui.me</span></li>
                   <li><i className="bi bi-chevron-right"></i> <strong>Phone:</strong> <span>+212.7.08.39.49.82</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Location:</strong><span>Rabat, Morocco</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Location:</strong><span>Rennes, France</span></li>
                 </ul>
               </div>
               <div className="col-lg-6">
                 <ul>
                   <li><i className="bi bi-chevron-right"></i> <strong>Age:</strong> <span>22</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master’s Degree in Data &amp;  Software Engineering</span></li>
-                  <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong> <span>atraoui.chaimaa@gmail.com <br/>catraoui@insea.ac.ma</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Degree:</strong> <span>Master’s Degree in Data Science for biology</span></li>
+                  <li><i className="bi bi-chevron-right"></i> <strong>Email:</strong> <span>atraoui.chaimaa@gmail.com </span></li>
                   
                 </ul>
               </div>
               <div className="sss ">
-                <a href="https://www.instagram.com/s.h.ai_m/" className="instagram"><i className="bx bxl-instagram"></i></a>
+                <a href="https://www.instagram.com/tea__ma/" className="instagram"><i className="bx bxl-instagram"></i></a>
                 <a href="https://www.linkedin.com/in/chaimaa-atraoui/" className="linkedin"><i className="bx bxl-linkedin"></i></a>
                 <a href="https://github.com/shemashi" className="linkedin"><i className="bx bxl-github"></i></a>
                
