@@ -16,7 +16,7 @@
     "env-cmd": "^10.1.0",
     "font-awesome": "^4.7.0",
     "heroku": "^7.59.2",
-    "react": "^17.0.1",
+    "react": "^16.14.0",
     "react-dom": "^17.0.1",
     "react-fa": "5.1.0",
     "react-icons": "^4.2.0",
