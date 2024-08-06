@@ -1,6 +1,6 @@
 # My Portfolio
 
-![Portfolio Preview](https://github.com/shemashi/myportfolio/blob/main/portfolioDSE.gif)
+![Portfolio Preview](./portfolioDSE.gif)
 
 This is a React website I developed during my last year of my Data and Software Engineering degree. The portfolio showcases my skills and projects, and it serves as a personal introduction to my professional capabilities.
 
